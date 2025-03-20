@@ -48,4 +48,9 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+.custom-heading {
+    font-family: ‘Arial’, sans-serif; /* Change the font */
+    color: #ff5733; /* Change the color */
+}
+	
 }
