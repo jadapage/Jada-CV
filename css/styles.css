@@ -48,9 +48,10 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
-.custom-heading {
-    font-family: ‘sans-serif; /* Change the font */
-    color: #ff5733; /* Change the color */
 }
 
+.custom-heading {
+    font-family: 'sans-serif' ; /* Change the font */
+    color: #ffffff; /* Change the color */
 }
+
