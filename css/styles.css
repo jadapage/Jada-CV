@@ -54,7 +54,6 @@ body {
     font-family: 'sans-serif' ; /* Change the font */
     color: #ffffff; /* Change the color */
 }
-
 .language-level .language-progress {
 	background-color: #ebe8d8 !important;
 }
@@ -65,4 +64,3 @@ body {
 	
 .language-level {
 		border: #b42e2e !important;
-}
