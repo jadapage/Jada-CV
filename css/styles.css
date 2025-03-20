@@ -55,3 +55,13 @@ body {
     color: #ffffff; /* Change the color */
 }
 
+.language-level .language-progress {
+	background-color: #ebe8d8 !important;
+}
+	
+.language-level {
+		background-color: rgb(255, 223, 94);
+}
+	
+.language-level {
+		border: #b42e2e !important;
